@@ -2,8 +2,10 @@ Turbine Health Monitoring and Failure Forecasting
 
 Turbine Health Monitoring is a machine learning project that predicts wind turbine failures using real-time sensor data.
 This project is designed to monitor the health of wind turbines and predict failures before they occur.
+
 Using Random Forest Machine Learning models, it performs:
--Binary Classification → Predict whether a turbine will fail (Yes/No).
+
+- Binary Classification → Predict whether a turbine will fail (Yes/No).
 - Multiclass Classification → Identify the type of failure (gearbox, rotor, generator, etc.).
 
 The workflow covers data preprocessing, EDA, model training, hyperparameter optimization, evaluation, model saving, and live user input testing.
